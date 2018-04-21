@@ -1,0 +1,74 @@
+html {
+  height: 100%;
+  background-color: white;
+  width: 100%
+}
+
+body {
+  height: 100%;
+}
+
+.wrapper{
+  margin: 0 auto;
+  width: 790px;
+}
+
+header {
+  padding: 7px;
+  display: block;
+  width: 790px;
+  text-align: center;
+  background-image: url("img/snow.jpg");
+}
+
+h1{
+
+  font-size: 45px;
+  color: blue;
+  text-decoration: underline;
+
+}
+nav {
+  line-height:2;
+  background-color:#c4f0ff;
+  width:150px;
+  display: inline-block;
+  vertical-align: top;
+  height:700px
+}
+
+nav ul {
+  list-style-type: circle;
+  text-decoration-style: solid;
+}
+nav li {
+  font-size: 25px
+}
+a {
+    color: ;
+}
+
+section {
+  width: 516px;
+  display: inline-block;
+}
+
+aside {
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  background-color:;
+  font-size: ;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+footer {
+  width: 790px;
+  background-color:;
+  text-align:center;
+  padding:5px;
+  display: block;
+}
